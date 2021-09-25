@@ -1,2 +1,2 @@
-# software
-it is my second project
+i am a new trainee in this software project
+hellooo
